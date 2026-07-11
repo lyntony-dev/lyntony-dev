@@ -10,7 +10,10 @@ I build tools that integrate AI agents into real-world workflows. My current foc
 
 ### 🔭 Current Projects
 
-* 🧠 **[DualRoute](https://github.com/lyntony-dev/DualRoute-Agent)** — A full-stack dual-router AI agent system integrating Filesystem, Postgres, and Puppeteer via MCP.
+* 🧠 **[DualRoute](https://github.com/lyntony-dev/DualRoute-Agent)** — A full-stack multi-agent platform implementing two LangGraph routing paradigms side by side — Supervisor-loop dispatch vs. conditional-edge pipelines — with real-time WebSocket execution-trace streaming.
+* 🌲 **[Huffman-Encoder](https://github.com/lyntony-dev/Huffman-Encoder)** — A from-scratch C implementation of Huffman compression: a BST-based frequency counter, greedy tree construction, and lossless UTF-8-aware encode/decode.
+* 🌾 **[Wheat-Segmentation-CV](https://github.com/lyntony-dev/Wheat-Segmentation-CV)** — Benchmarks GrabCut, SLIC+RandomForest, and U-Net head-to-head on real field-wheat images, taking IoU from 0.17% to 87.39%.
+
 * 🔒 **[comp6441-stego](https://github.com/lyntony-dev/comp6441-stego)** — An LSB image-steganography tool with custom AES-GCM encryption and chi-square steganalysis.
 
 ---
