@@ -10,7 +10,7 @@ I build tools that integrate AI agents into real-world workflows. My current foc
 
 ### 🔭 Current Projects
 
-* 🧠 **[DualRoute]** — A full-stack dual-router AI agent system integrating Filesystem, Postgres, and Puppeteer via MCP.
+* 🧠 **[DualRoute](https://github.com/lyntony-dev/DualRoute-Agent)** — A full-stack dual-router AI agent system integrating Filesystem, Postgres, and Puppeteer via MCP.
 * 🔒 **[comp6441-stego](https://github.com/lyntony-dev/comp6441-stego)** — An LSB image-steganography tool with custom AES-GCM encryption and chi-square steganalysis.
 
 ---
